@@ -1,0 +1,537 @@
+PhraseId,SentenceId,Phrase,Sentiment
+552,21,"Best indie of the year , so far .",4
+553,21,Best,4
+554,21,"indie of the year , so far .",3
+555,21,"indie of the year , so far",4
+556,21,"indie of the year ,",3
+557,21,indie of the year,3
+558,21,indie,2
+559,21,of the year,2
+560,21,the year,2
+561,21,year,2
+562,21,so far,2
+563,21,far,2
+564,22,"Hatfield and Hicks make the oddest of couples , and in this sense the movie becomes a study of the gambles of the publishing world , offering a case study that exists apart from all the movie 's political ramifications .",3
+565,22,"Hatfield and Hicks make the oddest of couples , and in this sense the movie becomes a study of the gambles of the publishing world , offering a case study that exists apart from all the movie 's political ramifications",3
+566,22,"Hatfield and Hicks make the oddest of couples , and",2
+567,22,"Hatfield and Hicks make the oddest of couples ,",2
+568,22,Hatfield and Hicks make the oddest of couples,2
+569,22,Hatfield and Hicks,2
+570,22,Hatfield and,2
+571,22,Hatfield,2
+572,22,Hicks,2
+573,22,make the oddest of couples,2
+574,22,make,2
+575,22,the oddest of couples,2
+576,22,the oddest,2
+577,22,oddest,1
+578,22,of couples,2
+579,22,couples,2
+580,22,"in this sense the movie becomes a study of the gambles of the publishing world , offering a case study that exists apart from all the movie 's political ramifications",3
+581,22,in this sense,2
+582,22,this sense,2
+583,22,"the movie becomes a study of the gambles of the publishing world , offering a case study that exists apart from all the movie 's political ramifications",2
+584,22,the movie,2
+585,22,"becomes a study of the gambles of the publishing world , offering a case study that exists apart from all the movie 's political ramifications",2
+586,22,"becomes a study of the gambles of the publishing world ,",2
+587,22,becomes a study of the gambles of the publishing world,2
+588,22,becomes,2
+589,22,a study of the gambles of the publishing world,2
+590,22,a study,2
+591,22,study,2
+592,22,of the gambles of the publishing world,2
+593,22,the gambles of the publishing world,2
+594,22,the gambles,2
+595,22,gambles,2
+596,22,of the publishing world,2
+597,22,the publishing world,2
+598,22,publishing world,2
+599,22,publishing,2
+600,22,world,2
+601,22,offering a case study that exists apart from all the movie 's political ramifications,2
+602,22,offering,2
+603,22,a case study that exists apart from all the movie 's political ramifications,3
+604,22,a case study,2
+605,22,case study,2
+606,22,case,2
+607,22,that exists apart from all the movie 's political ramifications,2
+608,22,exists apart from all the movie 's political ramifications,2
+609,22,exists apart,2
+610,22,exists,2
+611,22,apart,2
+612,22,from all the movie 's political ramifications,2
+613,22,all the movie 's political ramifications,2
+614,22,the movie 's political ramifications,2
+615,22,the movie 's,2
+616,22,movie 's,2
+617,22,political ramifications,2
+618,22,political,2
+619,22,ramifications,2
+620,23,It 's like going to a house party and watching the host defend himself against a frothing ex-girlfriend .,1
+621,23,'s like going to a house party and watching the host defend himself against a frothing ex-girlfriend .,1
+622,23,'s like going to a house party and watching the host defend himself against a frothing ex-girlfriend,1
+623,23,like going to a house party and watching the host defend himself against a frothing ex-girlfriend,1
+624,23,going to a house party and watching the host defend himself against a frothing ex-girlfriend,1
+625,23,going to a house party and,2
+626,23,going to a house party,2
+627,23,going,2
+628,23,to a house party,2
+629,23,a house party,2
+630,23,house party,2
+631,23,house,2
+632,23,party,2
+633,23,watching the host defend himself against a frothing ex-girlfriend,2
+634,23,watching,2
+635,23,the host defend himself against a frothing ex-girlfriend,2
+636,23,the host,2
+637,23,host,2
+638,23,defend himself against a frothing ex-girlfriend,2
+639,23,defend himself,3
+640,23,defend,2
+641,23,himself,2
+642,23,against a frothing ex-girlfriend,2
+643,23,against,2
+644,23,a frothing ex-girlfriend,2
+645,23,frothing ex-girlfriend,2
+646,23,frothing,1
+647,23,ex-girlfriend,2
+648,24,That the Chuck Norris `` grenade gag '' occurs about 7 times during Windtalkers is a good indication of how serious-minded the film is .,2
+649,24,That the Chuck Norris `` grenade gag '',2
+650,24,the Chuck Norris `` grenade gag '',2
+651,24,Chuck Norris `` grenade gag '',2
+652,24,Chuck,2
+653,24,Norris `` grenade gag '',2
+654,24,Norris,2
+655,24,`` grenade gag '',2
+656,24,``,2
+657,24,grenade gag '',2
+658,24,grenade,1
+659,24,gag '',2
+660,24,gag,1
+661,24,'',2
+662,24,occurs about 7 times during Windtalkers is a good indication of how serious-minded the film is .,2
+663,24,occurs about 7 times during Windtalkers is a good indication of how serious-minded the film is,3
+664,24,occurs,2
+665,24,about 7 times during Windtalkers is a good indication of how serious-minded the film is,2
+666,24,about 7 times during Windtalkers,2
+667,24,about 7 times,2
+668,24,7 times,2
+669,24,7,2
+670,24,times,2
+671,24,during Windtalkers,2
+672,24,during,2
+673,24,Windtalkers,2
+674,24,is a good indication of how serious-minded the film is,3
+675,24,a good indication of how serious-minded the film is,3
+676,24,a good indication,3
+677,24,good indication,3
+678,24,indication,2
+679,24,of how serious-minded the film is,2
+680,24,how serious-minded the film is,3
+681,24,how,2
+682,24,serious-minded the film is,2
+683,24,serious-minded the film,3
+684,24,serious-minded,2
+685,24,the film,2
+686,24,film,2
+687,25,The plot is romantic comedy boilerplate from start to finish .,2
+688,25,The plot,2
+689,25,plot,2
+690,25,is romantic comedy boilerplate from start to finish .,2
+691,25,is romantic comedy boilerplate from start to finish,3
+692,25,romantic comedy boilerplate from start to finish,2
+693,25,romantic comedy boilerplate from start,2
+694,25,romantic comedy boilerplate,1
+695,25,romantic,2
+696,25,comedy boilerplate,2
+697,25,comedy,3
+698,25,boilerplate,2
+699,25,from start,2
+700,25,start,2
+701,25,to finish,2
+702,25,finish,2
+703,26,"It arrives with an impeccable pedigree , mongrel pep , and almost indecipherable plot complications .",2
+704,26,"arrives with an impeccable pedigree , mongrel pep , and almost indecipherable plot complications .",2
+705,26,"arrives with an impeccable pedigree , mongrel pep , and almost indecipherable plot complications",2
+706,26,arrives,2
+707,26,"with an impeccable pedigree , mongrel pep , and almost indecipherable plot complications",2
+708,26,"an impeccable pedigree , mongrel pep , and almost indecipherable plot complications",1
+709,26,"an impeccable pedigree , mongrel pep , and almost",2
+710,26,"an impeccable pedigree , mongrel pep , and",2
+711,26,"an impeccable pedigree , mongrel pep ,",2
+712,26,"an impeccable pedigree , mongrel pep",3
+713,26,"impeccable pedigree , mongrel pep",3
+714,26,impeccable,4
+715,26,"pedigree , mongrel pep",2
+716,26,pedigree,2
+717,26,", mongrel pep",2
+718,26,mongrel pep,2
+719,26,mongrel,1
+720,26,pep,2
+721,26,almost,2
+722,26,indecipherable plot complications,1
+723,26,indecipherable,2
+724,26,plot complications,2
+725,26,complications,1
+726,27,A film that clearly means to preach exclusively to the converted .,2
+727,27,A film that clearly means to,2
+728,27,A film,2
+729,27,that clearly means to,2
+730,27,clearly means to,2
+731,27,clearly,2
+732,27,means to,2
+733,27,means,2
+734,27,preach exclusively to the converted .,1
+735,27,preach exclusively to the converted,2
+736,27,preach exclusively,2
+737,27,preach,2
+738,27,exclusively,2
+739,27,to the converted,2
+740,27,the converted,2
+741,27,converted,2
+742,28,"While The Importance of Being Earnest offers opportunities for occasional smiles and chuckles , it does n't give us a reason to be in the theater beyond Wilde 's wit and the actors ' performances .",1
+743,28,While The Importance of Being Earnest offers opportunities for occasional smiles and chuckles,3
+744,28,While,2
+745,28,The Importance of Being Earnest offers opportunities for occasional smiles and chuckles,3
+746,28,The Importance of Being Earnest,3
+747,28,of Being Earnest,2
+748,28,Being Earnest,2
+749,28,offers opportunities for occasional smiles and chuckles,2
+750,28,offers opportunities for occasional smiles and,3
+751,28,offers opportunities for occasional smiles,3
+752,28,offers,2
+753,28,opportunities for occasional smiles,2
+754,28,opportunities,2
+755,28,for occasional smiles,3
+756,28,occasional smiles,3
+757,28,occasional,2
+758,28,smiles,2
+759,28,chuckles,1
+760,28,", it does n't give us a reason to be in the theater beyond Wilde 's wit and the actors ' performances .",2
+761,28,it does n't give us a reason to be in the theater beyond Wilde 's wit and the actors ' performances .,2
+762,28,does n't give us a reason to be in the theater beyond Wilde 's wit and the actors ' performances .,2
+763,28,does n't give us a reason to be in the theater beyond Wilde 's wit and the actors ' performances,1
+764,28,give us a reason to be in the theater beyond Wilde 's wit and the actors ' performances,1
+765,28,give us,2
+766,28,give,3
+767,28,a reason to be in the theater beyond Wilde 's wit and the actors ' performances,2
+768,28,reason to be in the theater beyond Wilde 's wit and the actors ' performances,2
+769,28,to be in the theater beyond Wilde 's wit and the actors ' performances,2
+770,28,be in the theater beyond Wilde 's wit and the actors ' performances,2
+771,28,be in the theater,2
+772,28,in the theater,2
+773,28,the theater,2
+774,28,theater,3
+775,28,beyond Wilde 's wit and the actors ' performances,2
+776,28,beyond,2
+777,28,Wilde 's wit and the actors ' performances,2
+778,28,Wilde 's wit and,3
+779,28,Wilde 's wit,2
+780,28,Wilde 's,2
+781,28,Wilde,2
+782,28,the actors ' performances,2
+783,28,the actors ',2
+784,28,actors ',2
+785,28,actors,2
+786,28,',2
+787,29,The latest vapid actor 's exercise to appropriate the structure of Arthur Schnitzler 's Reigen .,1
+788,29,The latest,2
+789,29,latest,2
+790,29,vapid actor 's exercise to appropriate the structure of Arthur Schnitzler 's Reigen .,2
+791,29,vapid actor 's exercise to appropriate the structure of Arthur Schnitzler 's Reigen,1
+792,29,vapid actor 's exercise,1
+793,29,vapid,1
+794,29,actor 's exercise,2
+795,29,actor 's,2
+796,29,actor,2
+797,29,exercise,2
+798,29,to appropriate the structure of Arthur Schnitzler 's Reigen,2
+799,29,appropriate the structure of Arthur Schnitzler 's Reigen,2
+800,29,appropriate the structure,2
+801,29,appropriate,3
+802,29,the structure,2
+803,29,structure,2
+804,29,of Arthur Schnitzler 's Reigen,2
+805,29,Arthur Schnitzler 's Reigen,3
+806,29,Arthur Schnitzler 's,2
+807,29,Arthur,2
+808,29,Schnitzler 's,2
+809,29,Schnitzler,2
+810,29,Reigen,2
+811,30,"More vaudeville show than well-constructed narrative , but on those terms it 's inoffensive and actually rather sweet .",2
+812,30,"More vaudeville show than well-constructed narrative , but on those terms it 's inoffensive and actually rather sweet",3
+813,30,"More vaudeville show than well-constructed narrative , but",2
+814,30,"More vaudeville show than well-constructed narrative ,",1
+815,30,More vaudeville show than well-constructed narrative,1
+816,30,More vaudeville,2
+817,30,vaudeville,2
+818,30,show than well-constructed narrative,3
+819,30,show,2
+820,30,than well-constructed narrative,3
+821,30,than,2
+822,30,well-constructed narrative,4
+823,30,well-constructed,3
+824,30,narrative,2
+825,30,on those terms it 's inoffensive and actually rather sweet,3
+826,30,on those terms,2
+827,30,on,2
+828,30,those terms,2
+829,30,those,2
+830,30,terms,2
+831,30,it 's inoffensive and actually rather sweet,3
+832,30,'s inoffensive and actually rather sweet,3
+833,30,inoffensive and actually rather sweet,3
+834,30,inoffensive and actually,2
+835,30,inoffensive and,2
+836,30,inoffensive,1
+837,30,actually,2
+838,30,rather sweet,3
+839,30,rather,2
+840,31,Nothing more than a run-of-the-mill action flick .,2
+841,31,more than a run-of-the-mill action flick .,2
+842,31,more than a run-of-the-mill action,3
+843,31,than a run-of-the-mill action,2
+844,31,a run-of-the-mill action,2
+845,31,run-of-the-mill action,1
+846,31,run-of-the-mill,1
+847,31,action,2
+848,31,flick .,2
+849,32,"Hampered -- no , paralyzed -- by a self-indulgent script ... that aims for poetry and ends up sounding like satire .",0
+850,32,"Hampered -- no , paralyzed -- by a self-indulgent script ... that aims for poetry and ends up sounding like satire",1
+851,32,"Hampered -- no , paralyzed -- by a self-indulgent script ...",1
+852,32,"Hampered -- no , paralyzed -- by a self-indulgent script",1
+853,32,"Hampered -- no , paralyzed --",2
+854,32,Hampered,2
+855,32,"-- no , paralyzed --",2
+856,32,"no , paralyzed --",2
+857,32,"no , paralyzed",1
+858,32,no,1
+859,32,", paralyzed",1
+860,32,paralyzed,2
+861,32,by a self-indulgent script,1
+862,32,a self-indulgent script,0
+863,32,self-indulgent script,2
+864,32,self-indulgent,1
+865,32,script,2
+866,32,...,2
+867,32,that aims for poetry and ends up sounding like satire,1
+868,32,aims for poetry and ends up sounding like satire,1
+869,32,aims for poetry and,2
+870,32,aims for poetry,2
+871,32,aims,2
+872,32,for poetry,2
+873,32,poetry,3
+874,32,ends up sounding like satire,1
+875,32,ends up,2
+876,32,ends,2
+877,32,up,2
+878,32,sounding like satire,2
+879,32,sounding,3
+880,32,like satire,2
+881,32,satire,2
+882,33,"Ice Age is the first computer-generated feature cartoon to feel like other movies , and that makes for some glacial pacing early on .",2
+883,33,"Ice Age is the first computer-generated feature cartoon to feel like other movies , and that makes for some glacial pacing early on",2
+884,33,"Ice Age is the first computer-generated feature cartoon to feel like other movies , and",3
+885,33,"Ice Age is the first computer-generated feature cartoon to feel like other movies ,",2
+886,33,Ice Age is the first computer-generated feature cartoon to feel like other movies,3
+887,33,Ice Age,2
+888,33,Ice,2
+889,33,Age,2
+890,33,is the first computer-generated feature cartoon to feel like other movies,3
+891,33,the first computer-generated feature cartoon to feel like other movies,4
+892,33,the first computer-generated feature cartoon,2
+893,33,first computer-generated feature cartoon,3
+894,33,first,2
+895,33,computer-generated feature cartoon,2
+896,33,computer-generated,2
+897,33,feature cartoon,2
+898,33,feature,2
+899,33,cartoon,2
+900,33,to feel like other movies,3
+901,33,feel like other movies,2
+902,33,feel,2
+903,33,like other movies,2
+904,33,other movies,2
+905,33,other,2
+906,33,that makes for some glacial pacing early on,2
+907,33,makes for some glacial pacing early on,1
+908,33,makes for some glacial pacing,1
+909,33,makes,2
+910,33,for some glacial pacing,2
+911,33,some glacial pacing,2
+912,33,glacial pacing,2
+913,33,glacial,2
+914,33,pacing,2
+915,33,early on,2
+916,33,early,2
+917,34,"There 's very little sense to what 's going on here , but the makers serve up the cliches with considerable dash .",2
+918,34,"There 's very little sense to what 's going on here , but the makers serve up the cliches with considerable dash",1
+919,34,"There 's very little sense to what 's going on here , but",1
+920,34,"There 's very little sense to what 's going on here ,",0
+921,34,There 's very little sense to what 's going on here,1
+922,34,'s very little sense to what 's going on here,1
+923,34,very little sense to what 's going on here,1
+924,34,very little sense,1
+925,34,very little,2
+926,34,to what 's going on here,2
+927,34,what 's going on here,1
+928,34,'s going on here,2
+929,34,going on here,2
+930,34,going on,2
+931,34,here,2
+932,34,the makers serve up the cliches with considerable dash,2
+933,34,the makers,2
+934,34,makers,2
+935,34,serve up the cliches with considerable dash,2
+936,34,serve up,2
+937,34,serve,2
+938,34,the cliches with considerable dash,1
+939,34,the cliches,1
+940,34,cliches,2
+941,34,with considerable dash,2
+942,34,considerable dash,2
+943,34,considerable,3
+944,34,dash,2
+945,35,"Cattaneo should have followed the runaway success of his first film , The Full Monty , with something different .",2
+946,35,Cattaneo,2
+947,35,"should have followed the runaway success of his first film , The Full Monty , with something different .",2
+948,35,"should have followed the runaway success of his first film , The Full Monty , with something different",2
+949,35,"have followed the runaway success of his first film , The Full Monty , with something different",2
+950,35,"followed the runaway success of his first film , The Full Monty , with something different",2
+951,35,"followed the runaway success of his first film , The Full Monty ,",3
+952,35,followed,2
+953,35,"the runaway success of his first film , The Full Monty ,",4
+954,35,the runaway success,4
+955,35,runaway success,3
+956,35,runaway,2
+957,35,success,3
+958,35,"of his first film , The Full Monty ,",1
+959,35,"his first film , The Full Monty ,",2
+960,35,"his first film , The Full Monty",2
+961,35,"his first film ,",2
+962,35,his first film,2
+963,35,first film,2
+964,35,The Full Monty,2
+965,35,Full Monty,2
+966,35,Full,3
+967,35,Monty,2
+968,35,with something different,2
+969,35,something different,3
+970,35,different,2
+971,36,"They 're the unnamed , easily substitutable forces that serve as whatever terror the heroes of horror movies try to avoid .",1
+972,36,They,2
+973,36,"'re the unnamed , easily substitutable forces that serve as whatever terror the heroes of horror movies try to avoid .",1
+974,36,"'re the unnamed , easily substitutable forces that serve as whatever terror the heroes of horror movies try to avoid",2
+975,36,'re,2
+976,36,"the unnamed , easily substitutable forces that serve as whatever terror the heroes of horror movies try to avoid",1
+977,36,"the unnamed , easily substitutable forces",1
+978,36,"unnamed , easily substitutable forces",2
+979,36,"unnamed , easily substitutable",1
+980,36,unnamed,2
+981,36,", easily substitutable",1
+982,36,easily substitutable,2
+983,36,easily,3
+984,36,substitutable,1
+985,36,forces,2
+986,36,that serve as whatever terror the heroes of horror movies try to avoid,2
+987,36,serve as whatever terror the heroes of horror movies try to avoid,2
+988,36,as whatever terror the heroes of horror movies try to avoid,2
+989,36,whatever terror the heroes of horror movies try to avoid,1
+990,36,whatever,1
+991,36,terror the heroes of horror movies try to avoid,1
+992,36,terror,1
+993,36,the heroes of horror movies try to avoid,1
+994,36,the heroes of horror movies,2
+995,36,the heroes,2
+996,36,heroes,3
+997,36,of horror movies,2
+998,36,horror movies,2
+999,36,horror,1
+1000,36,try to avoid,1
+1001,36,to avoid,1
+1002,36,avoid,0
+1003,37,It almost feels as if the movie is more interested in entertaining itself than in amusing us .,1
+1004,37,almost feels as if the movie is more interested in entertaining itself than in amusing us .,0
+1005,37,feels as if the movie is more interested in entertaining itself than in amusing us .,1
+1006,37,feels as if the movie is more interested in entertaining itself than in amusing us,1
+1007,37,feels,2
+1008,37,as if the movie is more interested in entertaining itself than in amusing us,1
+1009,37,if the movie is more interested in entertaining itself than in amusing us,1
+1010,37,if,2
+1011,37,the movie is more interested in entertaining itself than in amusing us,1
+1012,37,is more interested in entertaining itself than in amusing us,1
+1013,37,more interested in entertaining itself than in amusing us,1
+1014,37,more interested in entertaining itself,1
+1015,37,interested in entertaining itself,3
+1016,37,interested,3
+1017,37,in entertaining itself,2
+1018,37,entertaining itself,3
+1019,37,itself,2
+1020,37,than in amusing us,2
+1021,37,in amusing us,3
+1022,37,amusing us,3
+1023,37,amusing,4
+1024,38,The movie 's progression into rambling incoherence gives new meaning to the phrase ` fatal script error . ',0
+1025,38,The movie 's progression into rambling incoherence,0
+1026,38,The movie 's progression,3
+1027,38,progression,2
+1028,38,into rambling incoherence,1
+1029,38,into,2
+1030,38,rambling incoherence,1
+1031,38,rambling,1
+1032,38,incoherence,1
+1033,38,gives new meaning to the phrase ` fatal script error . ',0
+1034,38,gives new meaning to the phrase ` fatal script error .,2
+1035,38,gives new meaning to the phrase ` fatal script error,1
+1036,38,gives new meaning,2
+1037,38,gives,2
+1038,38,new meaning,2
+1039,38,new,3
+1040,38,meaning,2
+1041,38,to the phrase ` fatal script error,1
+1042,38,the phrase ` fatal script error,1
+1043,38,phrase ` fatal script error,1
+1044,38,phrase,2
+1045,38,` fatal script error,0
+1046,38,`,2
+1047,38,fatal script error,0
+1048,38,fatal,2
+1049,38,script error,1
+1050,38,error,1
+1051,39,"Do n't judge this one too soon - it 's a dark , gritty story but it takes off in totally unexpected directions and keeps on going .",3
+1052,39,"Do n't judge this one too soon - it 's a dark , gritty story but it takes off in totally unexpected directions and keeps on going",2
+1053,39,Do n't judge this one too soon -,2
+1054,39,Do n't judge this one too soon,3
+1055,39,Do n't,1
+1056,39,Do,2
+1057,39,judge this one too soon,2
+1058,39,judge this one,2
+1059,39,judge,2
+1060,39,too soon,2
+1061,39,soon,2
+1062,39,-,2
+1063,39,"it 's a dark , gritty story but it takes off in totally unexpected directions and keeps on going",2
+1064,39,"it 's a dark , gritty story but",3
+1065,39,"it 's a dark , gritty story",2
+1066,39,"'s a dark , gritty story",3
+1067,39,"a dark , gritty story",2
+1068,39,"dark , gritty story",2
+1069,39,dark,2
+1070,39,", gritty story",2
+1071,39,gritty story,2
+1072,39,gritty,3
+1073,39,it takes off in totally unexpected directions and keeps on going,3
+1074,39,takes off in totally unexpected directions and keeps on going,2
+1075,39,takes off in totally unexpected directions and,3
+1076,39,takes off in totally unexpected directions,3
+1077,39,takes off,2
+1078,39,takes,2
+1079,39,in totally unexpected directions,2
+1080,39,totally unexpected directions,3
+1081,39,totally unexpected,2
+1082,39,totally,2
+1083,39,unexpected,2
+1084,39,directions,2
+1085,39,keeps on going,2
+1086,39,keeps,2
+1087,39,on going,2
